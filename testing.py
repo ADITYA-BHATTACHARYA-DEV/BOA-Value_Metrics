@@ -183,7 +183,7 @@ def run_extended_diagnostics(bin_path, model):
     plt.show()
 
 if __name__ == "__main__":
-    DATA_PATH = "/content/boa-constrictor/experiments/cms_experiment/CMS_DATA_float32.bin"
+    DATA_PATH = "/boa-constrictor/experiments/cms_experiment/CMS_DATA_float32.bin"
     if os.path.exists(DATA_PATH):
         model, losses = train_hybrid_model(DATA_PATH)
         run_extended_diagnostics(DATA_PATH, model)
