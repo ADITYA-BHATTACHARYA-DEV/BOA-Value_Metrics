@@ -394,6 +394,7 @@ The Range Coder converts these probabilities into **optimal bit representations*
 | Quantization | Sustainability | Reduces energy and memory use |
 
 ---
+## Test Results
 <img width="2990" height="3490" alt="test_result_3" src="https://github.com/user-attachments/assets/86a67987-a4cc-4ef2-9852-9f87dfa2b3c1" />
 
 
