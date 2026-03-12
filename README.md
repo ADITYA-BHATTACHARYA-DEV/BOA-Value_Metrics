@@ -191,10 +191,11 @@ pip install bitstream
 
 ### Range coding is responsible for converting model probability predictions into compressed bitstreams.
 ---
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/abcbfaf5-0293-4783-8d93-015f028eee73" />
+
 # Environment Setup Summary
 
 After installation, your environment should contain the following core components:
+
 
 | Category              | Tools        |
 | --------------------- | ------------ |
