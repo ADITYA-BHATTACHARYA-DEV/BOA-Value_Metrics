@@ -601,7 +601,13 @@ This approach enables **extremely efficient compression of large scientific data
 ---
 ##  Detailed WorkBook
 https://docs.google.com/document/d/19zV-tJhv10rQzWw1gmcw8a8bsu0kKsi1zJucPckIJ7w/edit?usp=sharing
+--- 
+## Disclosure of Delegation to Generative AI
+The authors declare the use of generative AI in the research and writing process. According to the GAIDeT taxonomy (2025), the following tasks were delegated to GAI tools under full human supervision:
 
+- Code optimization
+- Validation
+--- 
 ## 📧 Contact
 For any queries or suggestions, contact:
 📩 Email: adityabhattacharya3002@gmail.com  
